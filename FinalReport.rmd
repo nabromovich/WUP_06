@@ -81,7 +81,8 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
-
+  
+The table reaffirms what was shown in the previous graph, that the black group had an equal percentage for in favor and opposing (49% vs 50%).  It also shows that in the White and other group were again a 2:1 ratio in favor.   
 
 ## Inferential Results
 
