@@ -169,7 +169,8 @@ fisherXY = function(x, y, confL = 0, printAll=FALSE){
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
- 
+  
+The Fisher XY test shows that the black and the other groups are indeed different.  It also provide the data that white and black groups are different. It does not show any more differences between the other and white groups.    
 
 # Discussion and Conclusion
 
