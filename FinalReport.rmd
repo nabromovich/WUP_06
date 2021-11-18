@@ -68,7 +68,7 @@ According to this graph, black oppose capital punishment than they favor while t
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
-
+  
 
 
 
@@ -79,7 +79,8 @@ table2 <- xtabs(~race + cappun, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
-
+  
+The table reaffirms 68% of the white group are in favor, 46% of black and 56% of other are also in favor of capital punishment. 
 
 ## Inferential Results
 
