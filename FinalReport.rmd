@@ -3,8 +3,8 @@ title: "GSS challange"
 author: "Nathan Abromovich"
 date: "Fall 2021"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 
@@ -63,7 +63,8 @@ basicC + geom_bar(stat="identity",position="dodge")
 basicCC <- ggplot(dd2,aes(x=race,y=prcnt*100,fill=cappun)) 
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
-
+  
+This data illustrates that the black group has an equal percentage of opposing capital punishment while the white and others have a 2:1 ratio in favor of capital punishment.   
 
 
 ### Numerical Descriptive Results
